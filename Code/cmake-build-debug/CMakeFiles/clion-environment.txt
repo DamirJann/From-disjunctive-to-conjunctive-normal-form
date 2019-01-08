@@ -1,0 +1,4 @@
+ToolSet: w64 6.0@G:\Mingw_Setup\mingw64
+Options: 
+
+Options:

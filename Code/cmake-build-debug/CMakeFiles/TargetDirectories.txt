@@ -1,0 +1,3 @@
+G:/Clion/Clion_Project/From-disjunctive-to-conjunctive-normal-form/Code/cmake-build-debug/CMakeFiles/Code.dir
+G:/Clion/Clion_Project/From-disjunctive-to-conjunctive-normal-form/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Clion/Clion_Project/From-disjunctive-to-conjunctive-normal-form/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir

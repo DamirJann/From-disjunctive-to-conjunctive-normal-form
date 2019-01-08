@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/Clion/Clion_Project/From-disjunctive-to-conjunctive-normal-form/Code/main.cpp
+iostream
+-
+fstream
+-
+set
+-
+string
+-
+vector
+-
+
